@@ -16,6 +16,8 @@ export default function ProsesPage() {
     "/foto4.jpg",
     "/foto5.jpg",
     "/foto6.jpg",
+    "/foto7.jpg",
+    "/foto8.jpg",
   ];
 
   return (
